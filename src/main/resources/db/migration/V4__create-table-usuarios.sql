@@ -5,4 +5,3 @@ CREATE TABLE usuarios(
 
     primary key(id)
 );
-
